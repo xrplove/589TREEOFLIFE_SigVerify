@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.428.0",
+    "@aws-sdk/client-s3": "^3.1166.0",
     "@aws-sdk/s3-request-presigner": "^3.451.0",
     "@pinata/sdk": "^2.1.0",
     "bcrypt": "^5.1.1",
